@@ -1,4 +1,4 @@
-# FortiCNAPP on OpenShift – Capabilities Summary
+# FortiCNAPP OpenShift Feature Matrix (Private and Public Cloud)
 
 | Category                        | What You Can Do in OpenShift                                                                                       |
 |--------------------------------|--------------------------------------------------------------------------------------------------------------------|
