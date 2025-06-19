@@ -9,5 +9,5 @@
 | Image Vulnerability Scanning     | Yes — via CI/CD pipelines and container registry scanning                                                          |
 | Container Registry Integration   | Yes — Supports scanning container images from integrated registries                                                |
 | Admission Webhook Enforcement    | Yes — Blocks deployments based on high/critical CVEs and policy violations using OPAL (OPA + Terraform)           |
-| RBAC & Identity Monitoring       | Partial — Captures activity via the runtime agent                                                                 |
+| RBAC & Identity Monitoring       | Yes — Captures identity activity via runtime agent and Kubernetes audit log integration                           |
 | Network Activity Monitoring      | Yes — Tracks pod-to-pod and pod-to-external communication patterns                                                |
